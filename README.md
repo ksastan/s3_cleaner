@@ -6,7 +6,7 @@ Files can be deleted by 2 conditions - part of file name and file age.
 ## Prerequisite
 Dependencies should be installed.
 ```shell
-pip install requiremets
+pip install requiremets.txt
 ```
 
 ## Usage
